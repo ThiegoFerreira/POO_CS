@@ -1,0 +1,14 @@
+c:\Users\Thiego\Desktop\Técnico\POO_PTI\bin\Debug\net9.0\POO_PTI.exe
+C:\Users\Thiego\Desktop\Técnico\POO_PTI\bin\Debug\net9.0\POO_PTI.deps.json
+C:\Users\Thiego\Desktop\Técnico\POO_PTI\bin\Debug\net9.0\POO_PTI.runtimeconfig.json
+c:\Users\Thiego\Desktop\Técnico\POO_PTI\bin\Debug\net9.0\POO_PTI.dll
+c:\Users\Thiego\Desktop\Técnico\POO_PTI\bin\Debug\net9.0\POO_PTI.pdb
+c:\Users\Thiego\Desktop\Técnico\POO_PTI\obj\Debug\net9.0\POO_PTI.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Thiego\Desktop\Técnico\POO_PTI\obj\Debug\net9.0\POO_PTI.AssemblyInfoInputs.cache
+c:\Users\Thiego\Desktop\Técnico\POO_PTI\obj\Debug\net9.0\POO_PTI.AssemblyInfo.cs
+c:\Users\Thiego\Desktop\Técnico\POO_PTI\obj\Debug\net9.0\POO_PTI.csproj.CoreCompileInputs.cache
+c:\Users\Thiego\Desktop\Técnico\POO_PTI\obj\Debug\net9.0\POO_PTI.dll
+c:\Users\Thiego\Desktop\Técnico\POO_PTI\obj\Debug\net9.0\refint\POO_PTI.dll
+c:\Users\Thiego\Desktop\Técnico\POO_PTI\obj\Debug\net9.0\POO_PTI.pdb
+C:\Users\Thiego\Desktop\Técnico\POO_PTI\obj\Debug\net9.0\POO_PTI.genruntimeconfig.cache
+C:\Users\Thiego\Desktop\Técnico\POO_PTI\obj\Debug\net9.0\ref\POO_PTI.dll
